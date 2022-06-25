@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning little bit of Maths and started learning python
 - 💞️ I’m looking to collaborate on and luanch them once i am 18
 - 📫 If you're looking to reach me message me on discord edu_#4018 or send me a email at edwin20and7@gmail.com
-- I'm currently studying at grade 10 in India, Kerala
+- 🎓 I'm currently studying at grade 10 in India, Kerala
