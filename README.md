@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Edwin-The-Weird , My name is Edwin
 - 👀 I’m interested in proggramming in python and mathematics
 - 🌱 I’m currently learning little bit of Maths and started learning python
-- 💞️ I’m looking to collaborate on many open source projects on github once i am good at python
-- 📫 If you're looking to reach me message me on discord edu_#4018 or send me a email at edwin20and7@gmail.com
-- 🎓 I'm currently studying at grade 10 in India, Kerala
+- 🎓 I'm currently studying at grade 10
